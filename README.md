@@ -9,4 +9,4 @@ W celu uruchomienia aplikacji należy:
 3. W pliku .env należy zmienić MONGODB_URL na własną ścieżkę do bazy MongoDB
 
 
-Repozytorium będzie dostępne tydzień po obronie inżynierskiej
+Repozytorium zostanie usunięte tydzień po terminie obrony pracy dyplomowej.
