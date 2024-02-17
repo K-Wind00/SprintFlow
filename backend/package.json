@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "SprintFlow - praca inzynierska",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server",
+    "test": "jest"
+  },
+  "author": "Kacper Wiater",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "gravatar": "^1.8.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.16",
+    "supertest": "^6.3.4"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "jest": "^29.7.0",
+    "nodemon": "^2.0.7"
+  }
+}
